@@ -3,7 +3,7 @@
 - 🌱 Atualmente estou estudando o Flutter...
 - 💞️ Atualmente estou desenvolvendo uma aplicação para monitoramento de temperatura, utilizando Esp32 com Max 6675...
 
-
+##
 
 <div align="center">
   <a href="https://github.com/caiomendes2526">
@@ -11,6 +11,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiomendes2526&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
+  ##
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg">
